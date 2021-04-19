@@ -14,7 +14,7 @@ Pursuing a Ph.D. in [Technology Management](http://itm.nchu.edu.tw/) at [Nationa
 
 #### Research (Within 5 years)
 
-##### Topic Modeling
+#### Topic Modeling
 
 This study analyzes the metadata of 2,296 research articles using the AI-based topic modeling method for identifying under-investigated research topics. The results of this project guide policymakers and scholars to plan research direction precisely and allocate invaluable resources effectively for the best possible outcome.
 
@@ -31,7 +31,7 @@ This study analyzes the metadata of 2,296 research articles using the AI-based t
       + tidytest
       + ggplot2
 
-##### Co-occurrence Analysis
+#### Co-occurrence Analysis
 
 This study investigates the global collaboration pattern of economic research during the pandemic to adequately prepare solid research collaboration plans for scholars and policymakers.
 <p align="center">
@@ -53,7 +53,7 @@ This study investigates the global collaboration pattern of economic research du
 
 #### [IoTs for Smart Life](http://hpclab.blogspot.com/)
 
-##### Environmental monitoring and notification system
+#### Environmental monitoring and notification system
 
    This system monitors CO2 levels in real-time. Then notifications are sent to mobile messengers including Line and Telegram.
 <p align="center">
@@ -72,7 +72,7 @@ This study investigates the global collaboration pattern of economic research du
       - Wemos D1 mini
       - MH-Z19B CO2 sensor
 
-##### Cloud-based Voice Recognition System For Smart Home
+#### Cloud-based Voice Recognition System For Smart Home
 
    This system recognizes human voice to control LED light using Google Assistant. Then, commends are sent to IFTTT and Adafruit MQTT for executing pre-defined operations in ESP8266-based IoT device.
 <p align="center">
