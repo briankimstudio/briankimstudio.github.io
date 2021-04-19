@@ -4,14 +4,13 @@
 
 ### Topic Modeling
 
-This project is to analyze metadata of 2,296 research articles using AI-based Topic modeling method for identifying under-investigated research topic. The results of this project help policymakers and scholars to plan research direction and allocate invaluable resources effectively.
+This study analyzes metadata of 2,296 research articles using AI-based topic modeling method for identifying under-investigated research topics. The results of this project help policymakers and scholars to plan research direction precisely and allocate invaluable resources effectively for best possible outcome.
 
 + Requirements
-   + Web of Science Database
-   + R
-   
+   + Web of Science Database https://webofknowledge.com/
+   + R https://www.r-project.org/
    + R Packages
-      + topicmodels
+      + topicmodels https://cran.r-project.org/web/packages/topicmodels/index.html
       + tidyverse
       + tidytest
       + ggplot2
@@ -23,7 +22,7 @@ This project is to analyze metadata of 2,296 research articles using AI-based To
 
 ### CO2 level notification system
 
-   This system monitor CO2 evel in realtime then send notification to mobile messengers including Line and Telegram.
+   This system monitors CO2 evel in realtime then send notification to mobile messengers including Line and Telegram.
 
    + Prerequisites
 
