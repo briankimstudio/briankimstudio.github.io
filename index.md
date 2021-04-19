@@ -1,6 +1,6 @@
 # Current Position
 
-Pursuing a Ph.D. in Technology Management in National Chung Hsing University
+Pursuing a Ph.D. in Technology Management at National Chung Hsing University
 
 # Research Focus
 
@@ -8,7 +8,7 @@ Pursuing a Ph.D. in Technology Management in National Chung Hsing University
 
 ### Topic Modeling
 
-This study analyzes metadata of 2,296 research articles using AI-based topic modeling method for identifying under-investigated research topics. The results of this project guide policymakers and scholars to plan research direction precisely and allocate invaluable resources effectively for best possible outcome.
+This study analyzes the metadata of 2,296 research articles using the AI-based topic modeling method for identifying under-investigated research topics. The results of this project guide policymakers and scholars to plan research direction precisely and allocate invaluable resources effectively for the best possible outcome.
 
 <p align="center">
 <img src="img/topic-terms.png" width="500" >
@@ -25,7 +25,7 @@ This study analyzes metadata of 2,296 research articles using AI-based topic mod
 
 ### Co-occurrence Analysis
 
-This study investigates the global collaboration pattern of economic research during pandemic to adequately prepare solid research collaboration plans for scholars and policymakers.
+This study investigates the global collaboration pattern of economic research during the pandemic to adequately prepare solid research collaboration plans for scholars and policymakers.
 <p align="center">
 <img src="img/keyword-country.png" width="500" >
 </p>
@@ -47,7 +47,7 @@ This study investigates the global collaboration pattern of economic research du
 
 ### Environmental monitoring and notification system
 
-   This system monitors CO2 evel in realtime. Then notifications are sent to mobile messengers including Line and Telegram.
+   This system monitors CO2 levels in real-time. Then notifications are sent to mobile messengers including Line and Telegram.
 <p align="center">
 <img src="img/wemos_MH-Z19B_TELEGRAM_NOTIFY.PNG" width="500" >
 </p>
@@ -66,7 +66,7 @@ This study investigates the global collaboration pattern of economic research du
 
 ### Google Assistant-controlled Custom LED system
 
-   This system recognize human voice to control LED light using Google Assistant. Then, commends are sent to IFTTT and Adafruit MQTT for executing pre-defined operations in ESP8266-based IoT device.
+   This system recognizes human voice to control LED light using Google Assistant. Then, commends are sent to IFTTT and Adafruit MQTT for executing pre-defined operations in ESP8266-based IoT device.
 <p align="center">
 <img src="img/wemos_GOOGLE_ASSISTANT_title.png" width="500" >
 </p>
