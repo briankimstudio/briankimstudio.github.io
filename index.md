@@ -46,13 +46,12 @@ This study investigates the global collaboration pattern of economic research du
 
 ### Environmental monitoring and notification system
 
-   This system monitors CO2 evel in realtime then send notification to mobile messengers including Line and Telegram.
+   This system monitors CO2 evel in realtime. Then notifications are sent to mobile messengers including Line and Telegram.
 <p align="center">
 <img src="img/wemos_MH-Z19B_TELEGRAM_NOTIFY.PNG" width="500" >
 </p>
 
    + Prerequisites
-
      - Arduino IDE
      - ESP8266 package for Arduino IDE
      - EPS8266 Sketch Data Upload
@@ -61,19 +60,17 @@ This study investigates the global collaboration pattern of economic research du
      - Telegram Bot token and chat id
 
    + Requirements
-
       - Wemos D1 mini
       - MH-Z19B CO2 sensor
 
-### Google Assistant controlled Custom LED system
+### Google Assistant-controlled Custom LED system
 
-   This system uses IFTTT and Adafruit MQTT to communiate with Google Assistant for controlling LED light.
+   This system recognize human voice to control LED light using Google Assistant. Then, commends are sent to IFTTT and Adafruit MQTT for executing pre-defined operations in ESP8266-based IoT device.
 <p align="center">
 <img src="img/wemos_GOOGLE_ASSISTANT_title.png" width="500" >
 </p>
    
    + Prerequisites
-
      - Arduino IDE
      - ESP8266 package for Arduino IDE
      - EPS8266 Sketch Data Upload
@@ -81,6 +78,6 @@ This study investigates the global collaboration pattern of economic research du
      - Adafruit MQTT broker
      - Adafruit_NeoPixel Library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
 
-   + Hardware
+   + Requirements
      - Wemos D1 mini
      - NeoPixel compatible LED stick: https://www.adafruit.com/product/1426
