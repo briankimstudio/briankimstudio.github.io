@@ -29,6 +29,7 @@ This study investigates the global collaboration pattern of economic research du
 <p align="center">
 <img src="img/keyword-country.png" width="500" >
 </p>
+
 + Requirements
    + Web of Science Database https://webofknowledge.com/
    + VOSviewer https://www.vosviewer.com
