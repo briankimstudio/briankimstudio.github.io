@@ -1,10 +1,14 @@
-# Project
+# Current Position
+
+Pursuing a Ph.D. in Technology Management in National Chung Hsing University
+
+# Research Focus
 
 ## Data Science, Machine Learning, Topic Modeling
 
 ### Topic Modeling
 
-This study analyzes metadata of 2,296 research articles using AI-based topic modeling method for identifying under-investigated research topics. The results of this project help policymakers and scholars to plan research direction precisely and allocate invaluable resources effectively for best possible outcome.
+This study analyzes metadata of 2,296 research articles using AI-based topic modeling method for identifying under-investigated research topics. The results of this project guide policymakers and scholars to plan research direction precisely and allocate invaluable resources effectively for best possible outcome.
 
 + Requirements
    + Web of Science Database https://webofknowledge.com/
@@ -15,8 +19,21 @@ This study analyzes metadata of 2,296 research articles using AI-based topic mod
       + tidytest
       + ggplot2
 
-
 ### Co-occurrence Analysis
+
+This study investigates the global collaboration pattern of economic research for guiding to assist policymakers and scholars to adequately prepare solid research collaboration plans
+
++ Requirements
+   + Web of Science Database https://webofknowledge.com/
+   + VOSviewer https://www.vosviewer.com
+   + R https://www.r-project.org/
+   + R Packages
+      + bibliometrix
+      + networkD3
+      + htmlwidgets
+      + igraph
+      + tidyverse
+      + ggplot2
 
 ## IoT 
 
