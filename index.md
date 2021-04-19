@@ -10,6 +10,10 @@ Pursuing a Ph.D. in Technology Management in National Chung Hsing University
 
 This study analyzes metadata of 2,296 research articles using AI-based topic modeling method for identifying under-investigated research topics. The results of this project guide policymakers and scholars to plan research direction precisely and allocate invaluable resources effectively for best possible outcome.
 
+<p align="center">
+<img src="img/topic-terms.png" width="500" >
+</p>
+
 + Requirements
    + Web of Science Database https://webofknowledge.com/
    + R https://www.r-project.org/
@@ -21,8 +25,10 @@ This study analyzes metadata of 2,296 research articles using AI-based topic mod
 
 ### Co-occurrence Analysis
 
-This study investigates the global collaboration pattern of economic research for guiding to assist policymakers and scholars to adequately prepare solid research collaboration plans
-
+This study investigates the global collaboration pattern of economic research during pandemic to adequately prepare solid research collaboration plans for scholars and policymakers.
+<p align="center">
+<img src="img/keyword-country.png" width="500" >
+</p>
 + Requirements
    + Web of Science Database https://webofknowledge.com/
    + VOSviewer https://www.vosviewer.com
@@ -35,11 +41,15 @@ This study investigates the global collaboration pattern of economic research fo
       + tidyverse
       + ggplot2
 
-## IoT 
+
+## IoT http://hpclab.blogspot.com/
 
 ### CO2 level notification system
 
    This system monitors CO2 evel in realtime then send notification to mobile messengers including Line and Telegram.
+<p align="center">
+<img src="img/wemos_MH-Z19B_TELEGRAM_NOTIFY.PNG" width="500" >
+</p>
 
    + Prerequisites
 
@@ -58,6 +68,9 @@ This study investigates the global collaboration pattern of economic research fo
 ### Google Assistant controlled Custom LED system
 
    This system uses IFTTT and Adafruit MQTT to communiate with Google Assistant for controlling LED light.
+<p align="center">
+<img src="img/wemos_GOOGLE_ASSISTANT_title.png" width="500" >
+</p>
    
    + Prerequisites
 
