@@ -1,12 +1,15 @@
-# Current Position
+#### Current Position
 
 Pursuing a Ph.D. in Technology Management at National Chung Hsing University
 
-# Research Focus
+#### Research Focus
 
-## Data Science, Machine Learning, Topic Modeling
++ Data Science, Machine Learning, Topic Modeling
++ IoTs for Smart Life
 
-### Topic Modeling
+#### Recent Research
+
+##### Topic Modeling
 
 This study analyzes the metadata of 2,296 research articles using the AI-based topic modeling method for identifying under-investigated research topics. The results of this project guide policymakers and scholars to plan research direction precisely and allocate invaluable resources effectively for the best possible outcome.
 
@@ -23,7 +26,7 @@ This study analyzes the metadata of 2,296 research articles using the AI-based t
       + tidytest
       + ggplot2
 
-### Co-occurrence Analysis
+##### Co-occurrence Analysis
 
 This study investigates the global collaboration pattern of economic research during the pandemic to adequately prepare solid research collaboration plans for scholars and policymakers.
 <p align="center">
@@ -43,9 +46,9 @@ This study investigates the global collaboration pattern of economic research du
       + ggplot2
 
 
-## IoT http://hpclab.blogspot.com/
+#### IoT http://hpclab.blogspot.com/
 
-### Environmental monitoring and notification system
+##### Environmental monitoring and notification system
 
    This system monitors CO2 levels in real-time. Then notifications are sent to mobile messengers including Line and Telegram.
 <p align="center">
@@ -64,7 +67,7 @@ This study investigates the global collaboration pattern of economic research du
       - Wemos D1 mini
       - MH-Z19B CO2 sensor
 
-### Google Assistant-controlled Custom LED system
+##### Google Assistant-controlled Custom LED system
 
    This system recognizes human voice to control LED light using Google Assistant. Then, commends are sent to IFTTT and Adafruit MQTT for executing pre-defined operations in ESP8266-based IoT device.
 <p align="center">
