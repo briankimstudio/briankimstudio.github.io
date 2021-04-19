@@ -4,9 +4,9 @@ Pursuing a Ph.D. in [Technology Management](http://itm.nchu.edu.tw/) at [Nationa
 
 #### Research Focus
 
-+ Data Science, Machine Learning, Topic Modeling
++ Data Science, Machine Learning, [Topic Modeling](#topic_modeling)
 + [Mobile Health Technology Adoption](https://doi.org/10.1016/j.tele.2021.101603)
-+ [IoTs for Smart Life](https://hpclab.blogspot.com/)
++ [IoTs for Smart Life](#iots-for-smart-life)
 
 #### Recent Research
 
