@@ -8,7 +8,11 @@ Pursuing a Ph.D. in [Technology Management](http://itm.nchu.edu.tw/) at [Nationa
 + [Mobile Health Technology Adoption](https://doi.org/10.1016/j.tele.2021.101603)
 + [IoTs for Smart Life](#iots-for-smart-life)
 
-#### Recent Research
+#### Publications (Within 5 years)
++ Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. https://doi.org/10.1016/j.tele.2021.101603
++ Kim, T. B., & Ho, C.-T. B. (2021). AI-based framework for discovering under-investigated topics in health information systems research. 2021 Management Concept and Application Conference, Kaohsiung, Taiwan.
+
+#### Research (Within 5 years)
 
 ##### Topic Modeling
 
@@ -19,10 +23,10 @@ This study analyzes the metadata of 2,296 research articles using the AI-based t
 </p>
 
 + Requirements
-   + Web of Science Database https://webofknowledge.com/
-   + R https://www.r-project.org/
+   + [Web of Science Database](https://webofknowledge.com/)
+   + [R](https://www.r-project.org/)
    + R Packages
-      + topicmodels https://cran.r-project.org/web/packages/topicmodels/index.html
+      + [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html)
       + tidyverse
       + tidytest
       + ggplot2
@@ -35,9 +39,9 @@ This study investigates the global collaboration pattern of economic research du
 </p>
 
 + Requirements
-   + Web of Science Database https://webofknowledge.com/
-   + VOSviewer https://www.vosviewer.com
-   + R https://www.r-project.org/
+   + [Web of Science Database](https://webofknowledge.com/)
+   + [VOSviewer](https://www.vosviewer.com)
+   + [R](https://www.r-project.org/)
    + R Packages
       + bibliometrix
       + networkD3
@@ -68,7 +72,7 @@ This study investigates the global collaboration pattern of economic research du
       - Wemos D1 mini
       - MH-Z19B CO2 sensor
 
-##### Google Assistant-controlled Custom LED system
+##### Cloud-based Voice Recognition System For Smart Home
 
    This system recognizes human voice to control LED light using Google Assistant. Then, commends are sent to IFTTT and Adafruit MQTT for executing pre-defined operations in ESP8266-based IoT device.
 <p align="center">
@@ -85,4 +89,4 @@ This study investigates the global collaboration pattern of economic research du
 
    + Requirements
      - Wemos D1 mini
-     - NeoPixel compatible LED stick: https://www.adafruit.com/product/1426
+     - [NeoPixel compatible LED stick](https://www.adafruit.com/product/1426)
