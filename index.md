@@ -1,11 +1,12 @@
 #### Current Position
 
-Pursuing a Ph.D. in Technology Management at National Chung Hsing University
+Pursuing a Ph.D. in [Technology Management](http://itm.nchu.edu.tw/) at [National Chung Hsing University](https://www.nchu.edu.tw/en-index)
 
 #### Research Focus
 
 + Data Science, Machine Learning, Topic Modeling
-+ IoTs for Smart Life
++ [Mobile Health Technology Adoption](https://doi.org/10.1016/j.tele.2021.101603)
++ [IoTs for Smart Life](https://hpclab.blogspot.com/)
 
 #### Recent Research
 
