@@ -44,7 +44,7 @@ This study investigates the global collaboration pattern of economic research du
 
 ## IoT http://hpclab.blogspot.com/
 
-### CO2 level notification system
+### Environmental monitoring and notification system
 
    This system monitors CO2 evel in realtime then send notification to mobile messengers including Line and Telegram.
 <p align="center">
