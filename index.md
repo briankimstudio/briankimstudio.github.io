@@ -47,7 +47,7 @@ This study investigates the global collaboration pattern of economic research du
       + ggplot2
 
 
-#### IoT http://hpclab.blogspot.com/
+#### [IoTs for Smart Life](http://hpclab.blogspot.com/)
 
 ##### Environmental monitoring and notification system
 
