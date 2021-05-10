@@ -1,3 +1,4 @@
+<img src="img/Profile-small.jpg" width="250" >
 #### Current Position
 
 Pursuing a Ph.D. in [Technology Management](http://itm.nchu.edu.tw/) at [National Chung Hsing University](https://www.nchu.edu.tw/en-index)
