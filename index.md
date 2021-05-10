@@ -11,6 +11,7 @@ Pursuing a Ph.D. in [Technology Management](http://itm.nchu.edu.tw/) at [Nationa
 #### Publications (Within 5 years)
 + Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. https://doi.org/10.1016/j.tele.2021.101603
 + Kim, T. B., & Ho, C.-T. B. (2021). AI-based framework for discovering under-investigated topics in health information systems research. 2021 Management Concept and Application Conference, Kaohsiung, Taiwan.
++ Kim, T. B., & Ho, C.-T. B. (2021). Visual Data Exploration of Covid-19’s Impacts on Economic Research. International Conference on Information Management 2021, Taipei, Taiwan.(Accepted)
 
 #### Research (Within 5 years)
 
