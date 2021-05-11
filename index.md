@@ -1,7 +1,11 @@
-<img src="img/Profile-small.jpg" width="250" >
-#### Current Position
+<p align="center">
+<img src="img/Profile-small.jpg" width="150" >
+</p>
 
-Pursuing a Ph.D. in [Technology Management](http://itm.nchu.edu.tw/) at [National Chung Hsing University](https://www.nchu.edu.tw/en-index)
+#### Educations
++ Ph.D.(4th year) in [Technology Management](http://itm.nchu.edu.tw/) at [National Chung Hsing University](https://www.nchu.edu.tw/en-index)
++ Masters of Computer Science at [Texas A&M University](https://engineering.tamu.edu/cse/index.html), USA
++ MS in Computer Science at [Korea University](https://cs.korea.edu/en_cs/index.do), Korea.
 
 #### Research Focus
 
@@ -14,6 +18,15 @@ Pursuing a Ph.D. in [Technology Management](http://itm.nchu.edu.tw/) at [Nationa
 + Kim, T. B., & Ho, C.-T. B. (2021). AI-based framework for discovering under-investigated topics in health information systems research. 2021 Management Concept and Application Conference, Kaohsiung, Taiwan.
 + Kim, T. B., & Ho, C.-T. B. (2021). Visual Data Exploration of Covid-19’s Impacts on Economic Research. International Conference on Information Management 2021, Taipei, Taiwan.(Accepted)
 
+<p align="center">
+<img src="img/1-3_210404_19.jpg" width="720">
+</p>
+<p align="center">   
+Presentation at 2021 Management Concept and Application Conference, Kaohsiung, Taiwan
+</p>
+
+
+   
 #### Research (Within 5 years)
 
 #### Topic Modeling
@@ -53,7 +66,7 @@ This study investigates the global collaboration pattern of economic research du
       + ggplot2
 
 
-#### [IoTs for Smart Life](http://hpclab.blogspot.com/)
+#### [IoTs for Smart Life](https://hpclab.blogspot.com/)
 
 #### Environmental monitoring and notification system
 
@@ -92,3 +105,5 @@ This study investigates the global collaboration pattern of economic research du
    + Requirements
      - Wemos D1 mini
      - [NeoPixel compatible LED stick](https://www.adafruit.com/product/1426)
+
+[For more project...]((https://hpclab.blogspot.com/))
