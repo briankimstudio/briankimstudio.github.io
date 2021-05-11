@@ -106,4 +106,4 @@ This study investigates the global collaboration pattern of economic research du
      - Wemos D1 mini
      - [NeoPixel compatible LED stick](https://www.adafruit.com/product/1426)
 
-[For more project...]((https://hpclab.blogspot.com/))
+[For more project...](https://hpclab.blogspot.com/)
