@@ -67,9 +67,9 @@ This study analyzes the metadata of 2,296 research articles using the AI-based t
       + tidytest
       + ggplot2
 
-#### Co-occurrence Analysis
+#### Knowledge Mapping
 
-This study investigates the global collaboration pattern of economic research during the pandemic to adequately prepare solid research collaboration plans for scholars and policymakers.
+This study investigates the global collaboration pattern of economic research during the pandemic using co-occurrence analysis to adequately prepare solid research collaboration plans for scholars and policymakers.
 <p align="center">
 <img src="img/keyword-country.png" width="500" >
 </p>
