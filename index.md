@@ -28,7 +28,7 @@ Presentation at 2021 Management Concept and Application Conference, Kaohsiung, T
 ### Scholarships and Awards
 
 + Taiwan Scholarship 教育部臺灣獎學金, Ministry of Education, Taiwan, 2017~2021
-+ Student Academic Publication Scholarship 國立中興大學科技管理所學生學術論文研究獎勵, GITM, NCHU, 2021
++ Student Academic Publication Scholarship 國立中興大學科技管理理研所學生學術論文研究獎勵, GITM, NCHU, 2021
 + Scholarship for attending academic conference 國立中興大學科技管理研究所學術發表獎助, GITM, NCHU, 2021
 
 ### Coursework
