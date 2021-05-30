@@ -27,9 +27,9 @@ Presentation at 2021 Management Concept and Application Conference, Kaohsiung, T
 
 ### Scholarships and Awards
 
-+ Taiwan Scholarship 教育部臺灣獎學金, Ministry of Education, Taiwan, 2017~2021
-+ Student Academic Publication Scholarship 國立中興大學科技管理理研所學生學術論文研究獎勵, GITM, NCHU, 2021
-+ Scholarship for attending academic conference 國立中興大學科技管理研究所學術發表獎助, GITM, NCHU, 2021
++ Taiwan Scholarship [教育部臺灣獎學金](https://taiwanscholarship.moe.gov.tw/web/index.aspx), Ministry of Education, Taiwan, 2017~2021
++ Student Academic Publication Scholarship 國立中興大學科技管理理研所學生學術論文研究獎勵, [GITM](http://itm.nchu.edu.tw/), NCHU, 2021
++ Scholarship for attending academic conference 國立中興大學科技管理研究所學術發表獎助, [GITM](http://itm.nchu.edu.tw/), NCHU, 2021
 
 ### Coursework
 
@@ -45,7 +45,7 @@ Presentation at 2021 Management Concept and Application Conference, Kaohsiung, T
 ### Foreign language skills
 
 + English - Professional proficiency in listening, speaking, reading, and writing
-+ Chinese – Advanced (TOCFL Level 4)
++ Chinese – Advanced ([TOCFL](https://www.sc-top.org.tw/) Level 4)
 + Korean – Native 
 
 ### Research (Within 5 years)
