@@ -28,6 +28,12 @@ Presentation at 2021 Management Concept and Application Conference, Kaohsiung, T
 ### Invited Talks
 
 + 2021 International Conference on Future Healthcare and Economic Development｜Digital Healthcare Revolution Post-COVID-19, Medical Device Innovation Center, National Cheng Kung University, Tainan, Taiwan.
+<p align="center">
+<img src="img/IMG_3092.JPG" width="720">
+</p>
+<p align="center">   
+Invited talk at 2021 International Conference on Future Healthcare and Economic Development, Tainan, Taiwan
+</p>
 
 ### Scholarships and Awards
 
