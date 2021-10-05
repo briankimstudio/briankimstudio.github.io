@@ -3,7 +3,7 @@
 </p>
 
 ### Education
-+ Ph.D.(4th year) in [Technology Management 科技管理研究所](http://itm.nchu.edu.tw/) at [National Chung Hsing University 國立中興大學](https://www.nchu.edu.tw/en-index), Taiwan
++ Ph.D.(5th year) in [Technology Management 科技管理研究所](http://itm.nchu.edu.tw/) at [National Chung Hsing University 國立中興大學](https://www.nchu.edu.tw/en-index), Taiwan
 + Masters of Computer Science at [Texas A&M University 德州農工大學](https://engineering.tamu.edu/cse/index.html), USA
 + MS in Computer Science at [Korea University 韓國高麗大學](https://cs.korea.edu/en_cs/index.do), Korea
 
