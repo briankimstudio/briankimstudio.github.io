@@ -25,13 +25,17 @@
 Presentation at 2021 Management Concept and Application Conference, Kaohsiung, Taiwan
 </p>
 
+### Invited Talks
+
++ 2021 International Conference on Future Healthcare and Economic Development｜Digital Healthcare Revolution Post-COVID-19, Medical Device Innovation Center, National Cheng Kung University, Tainan, Taiwan.
+
 ### Scholarships and Awards
 
 + Taiwan Scholarship [教育部臺灣獎學金](https://taiwanscholarship.moe.gov.tw/web/index.aspx), Ministry of Education, Taiwan, 2017~2021
 + Student Academic Publication Scholarship 國立中興大學科技管理理研所學生學術論文研究獎勵, [GITM](http://itm.nchu.edu.tw/), NCHU, 2021
 + Scholarship for attending academic conference 國立中興大學科技管理研究所學術發表獎助, [GITM](http://itm.nchu.edu.tw/), NCHU, 2021
 
-### Reviewer for international journals
+### Reviewer for International Journals
 
 + Industrial Management & Data Systems (SCIE,IF=3.329)
 
@@ -46,7 +50,7 @@ Presentation at 2021 Management Concept and Application Conference, Kaohsiung, T
 + Emerging Technology and Industry Application 新興電子商務與企業應用
 + Advanced Research Topics in E-Business 高階電子化企業研究
 
-### Foreign language skills
+### Foreign Language Skills
 
 + English - Professional proficiency in listening, speaking, reading, and writing
 + Chinese – Advanced ([TOCFL](https://www.sc-top.org.tw/) Level 4)
