@@ -4,7 +4,7 @@
 
 ### Current Position
 
-Postdoctoral Reseasrcher, [Institute of Statistical Scinece](https://www.stat.sinica.edu.tw), [Academia Sinica](https://www.sinica.edu.tw/en), Taiwan.
+Postdoctoral Reseasrcher, [Institute of Statistical Scinece](https://www.stat.sinica.edu.tw), [Academia Sinica 中央研究院](https://www.sinica.edu.tw/en), Taiwan.
 
 ### Education
 + PhD in [Technology Management 科技管理研究所](http://itm.nchu.edu.tw/) at [National Chung Hsing University 國立中興大學](https://www.nchu.edu.tw/en-index), Taiwan
