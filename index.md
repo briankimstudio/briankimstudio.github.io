@@ -13,6 +13,7 @@ Postdoctoral Reseasrcher, [Institute of Statistical Scinece](https://www.stat.si
 
 ### Research Focus
 
++ Medical Machine Learning Application
 + [Mobile Health Technology Adoption](https://doi.org/10.1016/j.tele.2021.101603)
 + Data Science, Topic Modeling(Machine learning-based data analysis methodology)
 + [IoTs for Smart Life](#iots-for-smart-life)
