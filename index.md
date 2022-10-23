@@ -2,26 +2,38 @@
 <img src="img/Profile-small.jpg" width="150" >
 </p>
 
+<!---
 ### Current Position
 
 Postdoctoral Reseasrcher, [Institute of Statistical Scinece](https://www.stat.sinica.edu.tw), [Academia Sinica 中央研究院](https://www.sinica.edu.tw/en), Taiwan.
-
+--->
 ### Education
-+ PhD in [Technology Management 科技管理研究所](http://itm.nchu.edu.tw/) at [National Chung Hsing University 國立中興大學](https://www.nchu.edu.tw/en-index), Taiwan
++ 2022 PhD in [Technology Management 科技管理研究所](http://itm.nchu.edu.tw/) at [National Chung Hsing University 國立中興大學](https://www.nchu.edu.tw/en-index), Taiwan
 + Masters of Computer Science at [Texas A&M University 德州農工大學](https://engineering.tamu.edu/cse/index.html), USA
 + MS in Computer Science at [Korea University 韓國高麗大學](https://cs.korea.edu/en_cs/index.do), Korea
 
 ### Research Focus
 
-+ Medical Machine Learning Application
-+ [Mobile Health Technology Adoption](https://doi.org/10.1016/j.tele.2021.101603)
-+ Data Science, Topic Modeling(Machine learning-based data analysis methodology)
++ [Mobile Health Technology Acceptance](https://doi.org/10.1016/j.tele.2021.101603)
++ Research Trends Analysis via Topic Modeling(Machine learning-based data analysis methodology)
++ Bibliometric Analysis for Scholarly Big Data.
++ Medical Application of Machine Learning
 + [IoTs for Smart Life](#iots-for-smart-life)
 
+### Professional Experience
+
++ Postdoctoral Fellow, [Academia Sinica](https://www.sinica.edu.tw/en), Taiwan
+  + Applying machine learning techniques to discover effective anti-cancer drugs for patients
++ Senior System Analyst/Data Science, Supercomputing Facility, [Texas A&M University](https://www.tamu.edu/), USA
+  + Improving the performance of cloud system and analyzing research big data
+
 ### Publications (Within 5 years)
-+ THE BEST PAPER AWARD. Kim, T. B., & Ho, C.-T. B. (2022, May 28). Reality of Virtual Reality Research between 1987 and 2021. The 2022 International 
++ __*IF=9.140,SSCI*__ Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. [https://doi.org/10.1016/j.tele.2021.101603](https://doi.org/10.1016/j.tele.2021.101603)
++ Kim, T. B., & Ho, C.-T. B. (2022). Reality of Virtual Reality Research between 1987 and 2021. International Journal of Information and Management Sciences, 33, 345~259, doi:10.6186/IJIMS.202203_33(3).0005 (EI). *Invited from conference*
+
++ __*THE BEST PAPER AWARD*__ Kim, T. B., & Ho, C.-T. B. (2022, May 28). Reality of Virtual Reality Research between 1987 and 2021. The 2022 International 
 Conference in Management Sciences and Decision Making, Taipei, Taiwan.
-+ Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. [https://doi.org/10.1016/j.tele.2021.101603](https://doi.org/10.1016/j.tele.2021.101603). (**SSCI**,IF=**9.140**)
++ Kim, T. B., & Ho, C.-T. B. (2021). Machine Learning-based Knowledge Mapping for Bibliographic Big Data, 2021 National Computer Symposium, Taichung, Taiwan.
 + Kim, T. B., & Ho, C.-T. B. (2021). AI-based framework for discovering under-investigated topics in health information systems research. 2021 Management Concept and Application Conference, Kaohsiung, Taiwan.
 + Kim, T. B., & Ho, C.-T. B. (2021). Visual Data Exploration of Covid-19’s Impacts on Economic Research. International Conference on Information Management 2021, Taipei, Taiwan.
 
@@ -67,6 +79,7 @@ Invited talk at 2021 International Conference on Future Healthcare and Economic 
 
 + English - Professional proficiency in listening, speaking, reading, and writing
 + Chinese – Advanced ([TOCFL](https://www.sc-top.org.tw/) Level 4)
+  + Studied in [Feng Chia University 逢甲大學](https://www.fcu.edu.tw/)
 + Korean – Native 
 
 ### Research (Within 5 years)
