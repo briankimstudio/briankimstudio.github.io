@@ -9,14 +9,15 @@ Postdoctoral Reseasrcher, [Institute of Statistical Scinece](https://www.stat.si
 --->
 ### Education
 + 2022 PhD in [Technology Management 科技管理研究所](http://itm.nchu.edu.tw/) at [National Chung Hsing University 國立中興大學](https://www.nchu.edu.tw/en-index), Taiwan
+  + __Dissertation__ The Study on Wearable Health Technology: Machine Learning-based Research Trends Analysis and Role of Non-technology Factor in User Acceptance
 + Masters of Computer Science at [Texas A&M University 德州農工大學](https://engineering.tamu.edu/cse/index.html), USA
 + MS in Computer Science at [Korea University 韓國高麗大學](https://cs.korea.edu/en_cs/index.do), Korea
 
 ### Research Focus
 
 + [Mobile Health Technology Acceptance](https://doi.org/10.1016/j.tele.2021.101603)
-+ Research Trends Analysis via Topic Modeling(Machine learning-based data analysis methodology)
-+ Bibliometric Analysis for Scholarly Big Data.
++ Research Trends Analysis via Topic Modeling(Machine Learning-based Data Analysis Methodology)
++ Bibliometric Analysis for Scholarly Big Data
 + Medical Application of Machine Learning
 + [IoTs for Smart Life](#iots-for-smart-life)
 
@@ -26,7 +27,9 @@ Postdoctoral Reseasrcher, [Institute of Statistical Scinece](https://www.stat.si
   + Applying machine learning techniques to discover effective anti-cancer drugs for patients
 + Senior System Analyst/Data Science, Supercomputing Facility, [Texas A&M University](https://www.tamu.edu/), USA
   + Improving the performance of cloud system and analyzing research big data
-
++ Senior Software Developer, Corecess, Korea
+  + Developing firmware for embedded systems
+  
 ### Publications (Within 5 years)
 + __*IF=9.140,SSCI*__ Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. [https://doi.org/10.1016/j.tele.2021.101603](https://doi.org/10.1016/j.tele.2021.101603)
 + Kim, T. B., & Ho, C.-T. B. (2022). Reality of Virtual Reality Research between 1987 and 2021. International Journal of Information and Management Sciences, 33, 345~259, doi:10.6186/IJIMS.202203_33(3).0005 (EI). *Invited from conference*
