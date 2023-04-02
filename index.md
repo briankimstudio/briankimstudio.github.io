@@ -7,6 +7,7 @@
 
 Postdoctoral Reseasrcher, [Institute of Statistical Scinece](https://www.stat.sinica.edu.tw), [Academia Sinica 中央研究院](https://www.sinica.edu.tw/en), Taiwan.
 --->
+
 ### Education
 + 2022 PhD in [Technology Management 科技管理研究所](http://itm.nchu.edu.tw/) at [National Chung Hsing University 國立中興大學](https://www.nchu.edu.tw/en-index), Taiwan
   + __Dissertation__ The Study on Wearable Health Technology: Machine Learning-based Research Trends Analysis and Role of Non-technology Factor in User Acceptance
