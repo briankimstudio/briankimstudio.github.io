@@ -2,13 +2,29 @@
 <img src="img/Profile-small.jpg" width="150" >
 </p>
 
-<!---
+### Upcoming Talks
+
++ May 27, 2023. The 2023 International Conference in Management Sciences and Decision Making, Taipei, Taiwan.
+
 ### Current Position
 
-Postdoctoral Reseasrcher, [Institute of Statistical Scinece](https://www.stat.sinica.edu.tw), [Academia Sinica 中央研究院](https://www.sinica.edu.tw/en), Taiwan.
---->
++ 2023/2 ~ Present, Assistant Professor, Global Master of Business Administration, [Tunghai University 東海大學](https://eng.thu.edu.tw/), Taichung, Taiwan.
+
+### Courses Taught
+
+#### Graduate Level
+
++ Programming Design: Python
++ Global Business Management
+
+#### Updergraduate Level
+
++ Product and Operations Management
++ Western Culture and Society
+
 
 ### Education
+
 + 2022 PhD in [Technology Management 科技管理研究所](http://itm.nchu.edu.tw/) at [National Chung Hsing University 國立中興大學](https://www.nchu.edu.tw/en-index), Taiwan
   + __Dissertation__ The Study on Wearable Health Technology: Machine Learning-based Research Trends Analysis and Role of Non-technology Factor in User Acceptance
 + Masters of Computer Science at [Texas A&M University 德州農工大學](https://engineering.tamu.edu/cse/index.html), USA
@@ -24,7 +40,7 @@ Postdoctoral Reseasrcher, [Institute of Statistical Scinece](https://www.stat.si
 
 ### Professional Experience
 
-+ Postdoctoral Fellow, [Academia Sinica](https://www.sinica.edu.tw/en), Taiwan
++ Postdoctoral Fellow, [Institute of Statistical Scinece](https://www.stat.sinica.edu.tw), [Academia Sinica 中央研究院](https://www.sinica.edu.tw/en), Taiwan.
   + Applying machine learning techniques to discover effective anti-cancer drugs for patients
 + Senior System Analyst/Data Science, Supercomputing Facility, [Texas A&M University](https://www.tamu.edu/), USA
   + Improving the performance of cloud system and analyzing research big data
@@ -35,8 +51,7 @@ Postdoctoral Reseasrcher, [Institute of Statistical Scinece](https://www.stat.si
 + __*IF=9.140,SSCI*__ Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. [https://doi.org/10.1016/j.tele.2021.101603](https://doi.org/10.1016/j.tele.2021.101603)
 + Kim, T. B., & Ho, C.-T. B. (2022). Reality of Virtual Reality Research between 1987 and 2021. International Journal of Information and Management Sciences, 33, 345~259, doi:10.6186/IJIMS.202203_33(3).0005 (EI). *Invited from conference*
 
-+ __*THE BEST PAPER AWARD*__ Kim, T. B., & Ho, C.-T. B. (2022, May 28). Reality of Virtual Reality Research between 1987 and 2021. The 2022 International 
-Conference in Management Sciences and Decision Making, Taipei, Taiwan.
++ __*THE BEST PAPER AWARD*__ Kim, T. B., & Ho, C.-T. B. (2022, May 28). Reality of Virtual Reality Research between 1987 and 2021. The 2022 International Conference in Management Sciences and Decision Making, Taipei, Taiwan.
 + Kim, T. B., & Ho, C.-T. B. (2021). Machine Learning-based Knowledge Mapping for Bibliographic Big Data, 2021 National Computer Symposium, Taichung, Taiwan.
 + Kim, T. B., & Ho, C.-T. B. (2021). AI-based framework for discovering under-investigated topics in health information systems research. 2021 Management Concept and Application Conference, Kaohsiung, Taiwan.
 + Kim, T. B., & Ho, C.-T. B. (2021). Visual Data Exploration of Covid-19’s Impacts on Economic Research. International Conference on Information Management 2021, Taipei, Taiwan.
