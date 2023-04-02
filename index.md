@@ -8,7 +8,7 @@
 
 ### Current Position
 
-+ 2023/2 ~ Present, Assistant Professor, Global Master of Business Administration, [Tunghai University 東海大學](https://eng.thu.edu.tw/), Taichung, Taiwan.
++ 2023/2 ~ Present, Assistant Professor, Global Master of Business Administration at [Tunghai University 東海大學](https://eng.thu.edu.tw/), Taichung, Taiwan.
 
 ### Courses Taught
 
@@ -21,7 +21,6 @@
 
 + Product and Operations Management
 + Western Culture and Society
-
 
 ### Education
 
@@ -41,7 +40,7 @@
 ### Professional Experience
 
 + Postdoctoral Fellow, [Institute of Statistical Scinece](https://www.stat.sinica.edu.tw), [Academia Sinica 中央研究院](https://www.sinica.edu.tw/en), Taiwan.
-  + Applying machine learning techniques to discover effective anti-cancer drugs for patients
+  + Applying machine learning techniques for discovering effective anti-cancer drugs by utilizing molecular profile of individual patient.
 + Senior System Analyst/Data Science, Supercomputing Facility, [Texas A&M University](https://www.tamu.edu/), USA
   + Improving the performance of cloud system and analyzing research big data
 + Senior Software Developer, Corecess, Korea
