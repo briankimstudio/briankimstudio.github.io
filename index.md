@@ -47,6 +47,11 @@
   + Developing firmware for embedded systems
   
 ### Publications (Within 5 years)
+
++ Kim, T. B. (2023). How machine learning disrupts medical research. The 2023 International Conference in
+Management Sciences and Decision Making, Taipei, Taiwan.
++ Kim, T. B. (2023). Where is Generative AI Headed? 2023 International Conference on Information
+Management, Kaohsiung, Taiwan.
 + __*IF=9.140,SSCI*__ Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. [https://doi.org/10.1016/j.tele.2021.101603](https://doi.org/10.1016/j.tele.2021.101603)
 + Kim, T. B., & Ho, C.-T. B. (2022). Reality of Virtual Reality Research between 1987 and 2021. International Journal of Information and Management Sciences, 33, 345~259, doi:10.6186/IJIMS.202203_33(3).0005 (EI). *Invited from conference*
 
